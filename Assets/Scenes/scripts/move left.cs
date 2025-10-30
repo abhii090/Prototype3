@@ -6,6 +6,7 @@ public class moveleft : MonoBehaviour
 {
 
     private float speed = 30;
+ 
     // Start is called before the first frame update
     void Start()
     {
